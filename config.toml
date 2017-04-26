@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://beakyspil.me/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Marie's Travelogue"
 theme = "phugo"
