@@ -1,0 +1,3 @@
+[submodule "themes/hugo-tranquilpeak-theme"]
+  path = themes/phugo
+  url = git clone https://github.com/aerohub/phugo
