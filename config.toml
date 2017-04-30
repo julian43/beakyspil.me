@@ -10,7 +10,7 @@ keywords = "photogallery, photoblog, beakyspil, mariecowell"
 [params.footer.contact]
 buttontext = "Send"
 headline = "Get in touch"
-realemail = "mariecowell@gmail.confirm"
+realemail = "mariecowell@gmail.com"
 resettext = "Reset"
 [params.footer.contact.email]
 text = "Email *"
@@ -25,7 +25,7 @@ warning = "Please, enter your name"
 name = "Julian Cowell"
 [params.footer.paragraph]
 headline = "Marie's Trip To Japan"
-text = "Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum."
+text = "A fun and informative two weeks in April 2017. I spent a week in Tokyo, and then flew to Shanghai for another 6 days."
 [params.footer.social]
 headline = "Follow me"
 [[params.footer.social.links]]
@@ -39,18 +39,6 @@ url = "#"
 [[params.footer.social.links]]
 icon = "fa-instagram"
 label = "Instagram"
-url = "#"
-[[params.footer.social.links]]
-icon = "fa-github"
-label = "Github"
-url = "#"
-[[params.footer.social.links]]
-icon = "fa-dribbble"
-label = "Dribbble"
-url = "#"
-[[params.footer.social.links]]
-icon = "fa-linkedin"
-label = "LinkedIn"
 url = "#"
 [[params.header.links]]
 icon = "fa-info-circle"
