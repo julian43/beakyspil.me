@@ -1,0 +1,9 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: albumthumb
+  label: Albumthumb
+  type: text
+  hidden: false
+  default: path/to/album/cover/image
