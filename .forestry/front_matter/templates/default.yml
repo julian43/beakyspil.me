@@ -7,3 +7,5 @@ fields:
   type: text
   hidden: false
   default: path/to/album/cover/image
+pages:
+- shanghai-trip/germany.md
